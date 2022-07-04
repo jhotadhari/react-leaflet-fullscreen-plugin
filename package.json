@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@react-leaflet/core": "^2.0.0",
-    "leaflet.fullscreen": "^2.0.0",
+    "leaflet.fullscreen": "^2.4.0",
     "screenfull": "^5.1.0"
   },
   "bugs": {
